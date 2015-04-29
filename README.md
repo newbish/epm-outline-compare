@@ -15,6 +15,7 @@ print [diff](http://en.wikipedia.org/wiki/Diff_utility) style comparison.
 
 ## Usage
 python outline_compare.py [xml file]
+
 python outline_compare.py [xml file] [xml file]
 
 ### Example 1:
