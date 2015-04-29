@@ -14,12 +14,11 @@ print [diff](http://en.wikipedia.org/wiki/Diff_utility) style comparison.
 * [lxml](http://lxml.de/)
 
 ## Usage
-python outline_compare.py [xml file]
-
+python outline_compare.py [xml file]<br>
 python outline_compare.py [xml file] [xml file]
 
 ### Example 1:
-	kkikta@localhost:~/sgames$ python outline_compare.py Outline.xml | more
+	kkikta@localhost:~/sgames$ python outline_compare.py Outline.xml
 	 Account|A1000
 	 Account|A1500
 	 Account|Allocations
